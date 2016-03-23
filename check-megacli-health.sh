@@ -1,4 +1,5 @@
 #!/bin/bash
+# Tweaked from https://calomel.org/megacli_lsi_commands.html
 
 # Check MegaRAID RAID health status with MegaCLI
 # Device ID and Slot numbers will be used later to check SMART attributes and RAID rebuild progress status
